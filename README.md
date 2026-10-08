@@ -18,4 +18,4 @@ Git 会把它当成一整个超长单词，它找不到叫  user.email"35709022
 5. git log：查看全部提交历史记录
 6. git clone：拉取远程仓库到本地
 7. git remote add origin：关联本地仓库与远程GitHub仓库
-8. git push：把本地提交上传到远程仓库
+8. git push：把本地提交上传到远程仓库本次练习完成第一次版本提交
